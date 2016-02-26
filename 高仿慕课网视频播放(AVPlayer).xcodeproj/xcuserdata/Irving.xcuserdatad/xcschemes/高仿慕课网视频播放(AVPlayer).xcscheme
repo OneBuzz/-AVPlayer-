@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0720"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A635E96A1C79996200BBB294"
+               BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).app"
+               BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)"
+               ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A635E9831C79996200BBB294"
+               BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)Tests.xctest"
+               BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)Tests"
+               ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A635E98E1C79996200BBB294"
+               BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)UITests.xctest"
+               BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)UITests"
+               ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A635E96A1C79996200BBB294"
+            BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).app"
+            BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)"
+            ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A635E96A1C79996200BBB294"
+            BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).app"
+            BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)"
+            ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A635E96A1C79996200BBB294"
+            BuildableName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).app"
+            BlueprintName = "&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer)"
+            ReferencedContainer = "container:&#x9ad8;&#x4eff;&#x6155;&#x8bfe;&#x7f51;&#x89c6;&#x9891;&#x64ad;&#x653e;(AVPlayer).xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
